@@ -1,2 +1,2 @@
-# pythonfinal
+# globalaihub
 global ai hub course
